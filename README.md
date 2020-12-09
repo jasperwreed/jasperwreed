@@ -1,7 +1,7 @@
 ### Hi there, I'm Jasper
 ## I'm an Athlete, Activist, and Full Stack Web Developer!
 - 2020 Goals: Make the most of every opportunity
-- Fun fact: I broke a 50 year Long Jump Record in Vermont
+- Fun fact: I broke a 50 year old Long Jump Record in Vermont
 <br />
 
 ---
@@ -38,6 +38,7 @@
 ---
 
 <img align='left' alt="jasperwreed's Github Stats" src='https://github-readme-stats.vercel.app/api?username=jasperwreed&show_icons=true&hide_border=true' />
+<img align='left' alt="jasperwreed's Github Stats" src='https://github-readme-stats.vercel.app/api/top-langs/?username=jasperwreed'>
 
 [twitter]: https://twitter.com/jasperwreed
 [linkedin]: https://www.linkedin.com/in/jasper-reed/
