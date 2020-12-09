@@ -37,9 +37,11 @@
 
 ---
 
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 <img align='left' alt="jasperwreed's Github Stats" src='https://github-readme-stats.vercel.app/api?username=jasperwreed&show_icons=true&hide_border=true&include_all_commits=true' />
 <img align='left' alt="jasperwreed's Github Stats" src='https://github-readme-stats.vercel.app/api/top-langs/?username=jasperwreed' />
-<img align='left' alt="jasperwreed's Github Stats" src='https://github-readme-stats.vercel.app/api/wakatime?username=jasperwreed' />
 
 [twitter]: https://twitter.com/jasperwreed
 [linkedin]: https://www.linkedin.com/in/jasper-reed/
