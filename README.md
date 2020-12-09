@@ -9,9 +9,9 @@
 
 ### Connect with me:
 
-[<img align='left' alt='jasperwreed | Email' width='22px' src='https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg' />](mailto:jasperwreed@protonmail.com)
-[<img align='left' alt='jasperwreed | Twitter' width='22px' src='https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg' />][https://twitter.com/jasperwreed]
-[<img align='left' alt='jasperwreed | LinkedIn' width='22px' src='https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg' />][https://www.linkedin.com/in/jasper-reed/]
+[<img align='left' alt='jasperwreed | Email' width='22px' src='https://cdn.jsdelivr.net/npm/simple-icons@3.7.0/icons/gmail.svg' />](mailto:jmixon.reed@gmail.com)
+[<img align='left' alt='jasperwreed | Twitter' width='22px' src='https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg' />][twitter]
+[<img align='left' alt='jasperwreed | LinkedIn' width='22px' src='https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg' />][linkedin]
 <br />
 
 ---
@@ -29,3 +29,5 @@
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 <br />
 
+[twitter]: https://twitter.com/jasperwreed
+[linkedin]: https://www.linkedin.com/in/jasper-reed/
