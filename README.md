@@ -18,6 +18,7 @@
 
 ### 📕 Latest Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Bad Times, Good Lessons](https://dev.to/jasperwreed/bad-times-good-lessons-2l08)
 <!-- BLOG-POST-LIST:END -->
 
 ---
