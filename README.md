@@ -39,9 +39,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-JSX          1 hr 56 mins    ███████████████▒░░░░░░░░░   60.85 % 
-CSS          50 mins         ██████▓░░░░░░░░░░░░░░░░░░   26.14 % 
-JavaScript   24 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.01 % 
+No Activity tracked this Week
 ```
 <!--END_SECTION:waka-->
 
