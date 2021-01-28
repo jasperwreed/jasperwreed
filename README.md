@@ -39,7 +39,10 @@
 
 <!--START_SECTION:waka-->
 ```text
-No Activity tracked this Week
+JSX          15 mins         █████████▓░░░░░░░░░░░░░░░   38.18 % 
+C++          15 mins         █████████▒░░░░░░░░░░░░░░░   37.01 % 
+Java         5 mins          ███▒░░░░░░░░░░░░░░░░░░░░░   13.83 % 
+JavaScript   4 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   09.68 % 
 ```
 <!--END_SECTION:waka-->
 
