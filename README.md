@@ -39,8 +39,10 @@
 
 <!--START_SECTION:waka-->
 ```text
-JavaScript   1 hr 55 mins    ████████████████████████░   96.38 % 
-GraphQL      2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.96 % 
+JavaScript   1 hr 55 mins    ██████████████████████░░░   87.38 % 
+Ruby         9 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   07.26 % 
+Other        3 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.61 % 
+GraphQL      2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.78 % 
 ```
 <!--END_SECTION:waka-->
 
