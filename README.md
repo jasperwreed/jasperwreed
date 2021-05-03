@@ -1,7 +1,7 @@
 ### Hi there, I'm Jasper
 ## I'm an Athlete, Activist, and Full Stack Web Developer!
-- 2020 Goals: Make the most of every opportunity
-- Fun fact: I broke a 50 year old Long Jump Record in Vermont
+- 2021 Goals: Expand my knowledge across more programming languages
+- Fun fact: I broke a 50 year old Long Jump Record
 <br />
 
 ---
